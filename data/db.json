@@ -1,0 +1,31 @@
+{
+    "categories": [
+      {
+        "id": 0,
+        "name": "name",
+        "display_name": "display_name",
+        "description": "description"
+      },
+      {
+        "name": "Travis",
+        "display_name": "travis",
+        "description": "brother",
+        "id": 1
+      },
+      {
+        "name": "Trevor",
+        "display_name": "trevor",
+        "description": "brother",
+        "id": 2
+      }
+    ],
+    "products": [
+      {
+        "id": 0,
+        "categoryId": 0,
+        "name": "name",
+        "display_name": "display_name",
+        "description": "description"
+      }
+    ]
+  }
